@@ -1,3 +1,6 @@
+# Config file (has crypto stuff)
+config.js
+
 # Logs
 logs
 *.log

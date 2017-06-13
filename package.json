@@ -1,0 +1,19 @@
+{
+  "name": "twitter-photo-bot",
+  "version": "1.0.0",
+  "description": "A twitter bot that periodicall posts images.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betaredex/bracketpoll.git"
+  },
+  "author": "Elliot Brock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/betaredex/bracketpoll/issues"
+  },
+  "homepage": "https://github.com/betaredex/bracketpoll#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "twitter": "^1.7.1"
+  }
+}
