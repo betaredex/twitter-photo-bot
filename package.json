@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/betaredex/bracketpoll#readme",
   "dependencies": {
+    "cron": "^1.2.1",
     "lodash": "^4.17.4",
     "twitter": "^1.7.1"
   }
